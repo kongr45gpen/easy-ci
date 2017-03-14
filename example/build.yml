@@ -1,0 +1,4 @@
+commands:
+  - echo hi
+  - return $(shuf -i 0-1 -n 1)
+  - echo success
