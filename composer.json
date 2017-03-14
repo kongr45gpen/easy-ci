@@ -1,0 +1,13 @@
+{
+    "name": "kongr45gpen/easy-ci",
+    "description": "An easy Continuous Integration solution based on PHP",
+    "type": "library",
+    "require": {
+        "symfony/yaml": "^3.2",
+        "symfony/process": "^3.2",
+        "symfony/console": "^3.2"
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^3.2"
+    }
+}
